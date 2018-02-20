@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PanicButton</string>
+    <string name="title_text">Title</string>
+    <string name="location_text">Location</string>
+    <string name="priority_text">Priority</string>
+    <string name="details_text">Details</string>
+    <string name="confirm_text">Confirm</string>
+</resources>
